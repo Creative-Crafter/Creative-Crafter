@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Creative Crafter
 
-- 👀 I’m interested in programming, blender and Video editing
+- 👀 I’m interested in Programming, Blender and Video Editing in DaVinci Resolve 
 
 - 📫 How to reach me: info+github@creative-crafter.de
 
